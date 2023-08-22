@@ -9,7 +9,7 @@ BootCamp: Data Engineering Program 13va edición
 Link : https://sparkbyexamples.com/pyspark-tutorial/
 
 
-* Archivos de practicas según la Sesión:
+* Archivos entregados por Sesión:
 
 
 Sesión 2 : Ingesta de datos I
